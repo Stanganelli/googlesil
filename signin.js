@@ -20,7 +20,7 @@ class SignInPage extends React.Component {
         super(props);
     }
 
-    async componentDidMount() {
+    async component() {
         
     }
 
