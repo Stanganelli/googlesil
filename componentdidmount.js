@@ -1,4 +1,4 @@
-async componentdidmount() {
+async component() {
     GoogleSignin.configure({
         webClientId: "<>",
         offlineAccess: false,
